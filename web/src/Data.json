@@ -1,0 +1,170 @@
+ [
+{
+"name": "engineering",
+"version": "http://localhost:3000/engineering"    
+},
+   {
+  "name": "accounting",
+  "version": "http://localhost:3000/accounting"
+   },
+ {
+ "name": "business and economics",
+ "version": "http://localhost:3000/business"
+    
+    },
+ {
+"name": "low and related",
+"version": "http://localhost:3000/low"
+        
+        },
+ {
+            "name": "agricultural scince",
+            "version": "http://localhost:3000/agricuture"
+                    
+ },
+                {
+                "name": "sport and tradition",
+                "version": "http://localhost:3000/sport"
+                },
+                   {
+                  "name": "medicene and pharmacy",
+                  "version": "http://localhost:3000/medicene"
+                   
+                    },
+                 {
+                 "name": "it and software",
+                 "version": "http://localhost:3000/it"
+                    
+                    },
+                 {
+                "name": "politica and adminstration",
+                "version": "http://localhost:3000/poletica"
+                        
+                        },
+                 {
+                            "name": "hotel and turisem",
+                            "version": "http://localhost:3000/hotel"
+                                    
+                 } ,    
+                
+                
+                 {
+                    "name": "social and community",
+                    "version": "http://localhost:3000/social"
+                        
+                    },
+                       {
+                      "name": "journalisem and media",
+                      "version": "http://localhost:3000/journalisem"
+                       
+                        },
+                     {
+                     "name": "lingustics and translater",
+                     "version": "http://localhost:3000/lingustics"
+                        
+                        },
+                     
+                     {
+                                "name": "applied",
+                                "version": "http://localhost:3000/applied"
+                                        
+                     },
+                                    {
+                                    "name": "teaching and education",
+                                    "version": "http://localhost:3000/education"
+                                    },
+                                       {
+                                      "name": "secratary",
+                                      "version": "http://localhost:3000/secratary"
+                                       
+                                        },
+                                     {
+                                     "name": "psyicology",
+                                     "version": "http://localhost:3000/psyicology"
+                                        
+                                        },
+                                     {
+                                    "name": "land and geology",
+                                    "version": "http://localhost:3000/land"
+                                            
+                                            },
+                                     {
+                                                "name": "history and archiology",
+                                                "version": "http://localhost:3000/history"
+                                                        
+                                     } ,    
+                                    
+                                     {
+                                        "name": "fashion and design",
+                                        "version": "http://localhost:3000/fashion"
+                                            
+                                        },
+                                           {
+                                          "name": "art and music",
+                                          "version": "http://localhost:3000/art"
+                                           
+                                            },
+                                         {
+                                         "name": "video and graphics",
+                                         "version": "http://localhost:3000/video"
+                                            
+                                            },
+                                         {
+                                        "name": "sells and trading",
+                                        "version": "http://localhost:3000/sells"
+                                                
+                                                },
+                                         {
+                                                    "name": "communication and networking",
+                                                    "version": "http://localhost:3000/communication"
+                                                            
+                                         },
+                                                        {
+                                                        "name": "road and transport",
+                                                        "version": "http://localhost:3000/road"
+                                                        },
+                                                           {
+                                                          "name": "physical work",
+                                                          "version": "http://localhost:3000/physical"
+                                                           
+                                                            },
+                                                         {
+                                                         "name": "shefe and food",
+                                                         "version": "http://localhost:3000/shefe"
+                                                            
+                                                            },
+                                                         {
+                                                        "name": "web development",
+                                                        "version": "http://localhost:3000/web"
+                                                                
+                                                                },
+                                                         {
+                                                                    "name": "agent",
+                                                                    "version": "http://localhost:3000/agent"
+                                                                            
+                                                         },     
+                                                        
+                                                                                                       
+                
+                                                         {
+                                                            "name": "ngo jobs",
+                                                            "version": "http://localhost:3000/ngo"
+                                                                
+                                                            },
+                                                               {
+                                                              "name": "fresh graduates",
+                                                              "version": "http://localhost:3000/fresh"
+                                                               
+                                                                },
+                                                             {
+                                                             "name": "contrat jobs",
+                                                             "version": "http://localhost:3000/contrat"
+                                                                
+                                                                },
+                                                             {
+                                                            "name": "long term jobs",
+                                                            "version": "http://localhost:3000/long"
+                                                                    
+                                                                    }
+                                                             
+                                                             ]

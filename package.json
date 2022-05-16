@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "javascript-time-ago": "^2.3.10",
+    "react-moment": "^1.1.1",
+    "react-social": "^1.10.0",
+    "react-time-ago": "^7.1.3"
+  }
+}
